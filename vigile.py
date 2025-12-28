@@ -10,7 +10,7 @@ load_dotenv()
 API_KEY = os.getenv("Gemini_api_key")
 
 MODELS = [
-    "gemini-2.5-flash-lite-preview-09-2025",
+    "gemini-2.5-flash",
     "gemini-2.0-flash"
 ]
 
